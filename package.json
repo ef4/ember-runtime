@@ -1,5 +1,5 @@
 {
-  "name": "ember-runtime",
+  "name": "ember",
   "version": "1.8.1",
   "description": "The Ember.js runtime environment.",
   "main": "index.js",
