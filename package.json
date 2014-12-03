@@ -1,0 +1,11 @@
+{
+  "name": "ember-runtime",
+  "version": "1.8.1",
+  "description": "The Ember.js runtime environment.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/ef4/ember-runtime",
+  "author": "Edward Faulkner <ef@alum.mit.edu>"
+}
