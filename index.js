@@ -25632,4 +25632,5 @@ define("rsvp/utils",
 requireModule("ember-runtime");
 
 })();
+Ember.default = Ember;
 ;module.exports = Ember;
