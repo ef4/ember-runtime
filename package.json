@@ -1,6 +1,6 @@
 {
   "name": "ember",
-  "version": "1.10.0-braveleaf.0",
+  "version": "1.10.0-braveleaf.1",
   "description": "The Ember.js runtime environment.",
   "main": "index.js",
   "scripts": {
